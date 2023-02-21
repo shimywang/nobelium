@@ -2,7 +2,7 @@ const BLOG = {
   title: '蓝袜子',
   author: 'blue-stocking',
   email: ' ',
-  link: ' ',
+  link: 'blue-stocking.vercel.app ',
   description: 'Yet another random blog',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -10,7 +10,7 @@ const BLOG = {
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // If leave this empty, current year will be used.
+  since: 2023, // If leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: true,
   showAbout: true,
