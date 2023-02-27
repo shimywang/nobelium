@@ -2,8 +2,8 @@ const BLOG = {
   title: '意中',
   author: 'Yuyan',
   email: 'shimywang@gmail.com',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  link: 'https://in-mind.netlify.app',
+  description: 'Everything and anything about design-ish',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
